@@ -1,3 +1,0 @@
-alias l="ls -laGht"
-alias h="head"
-alias mysql="/Applications/MAMP/Library/bin/mysql"
